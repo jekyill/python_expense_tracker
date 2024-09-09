@@ -16,7 +16,7 @@ python expenditure_tracker.py
 
 ## Usage
 
-This is a simple python project inteded for tracking your expenditure
+This is a simple python project intended for tracking your expenditure
 
 First off the program will ask the User for there name and display a welcome message with that name
 
